@@ -75,7 +75,7 @@ nav{
       background: black;
       border:2px solid indianred;
 }
-@media screen and(max-width:600px){
+@media screen and(max-width:500px){
     body{
         background-image:url('https://tds-images.thedailystar.net/sites/default/files/images/2023/05/10/pexels-asad-photo-maldives-1483053.jpg');
         background-size: cover;
