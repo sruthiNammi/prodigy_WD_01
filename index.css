@@ -75,3 +75,60 @@ nav{
       background: black;
       border:2px solid indianred;
 }
+@media screen and(max-width:600px){
+    body{
+        background-image:url('https://tds-images.thedailystar.net/sites/default/files/images/2023/05/10/pexels-asad-photo-maldives-1483053.jpg');
+        background-size: cover;
+    }
+    .nav{
+      height:20px;
+      width:100%;
+      display:flex;
+      align-items:center;
+      justify-content: space-around;
+      padding-top: 20px;
+      position: absolute;
+    }
+    .logo{
+        font-size: 15px;
+        letter-spacing: 2px;
+        color: white;
+    }
+    .menu a{
+        color:black;
+        text-decoration: none;
+        position: relative;
+        padding: 10px;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 5px;
+    
+    }
+    .reg a{
+        color:white;
+        padding:10px 20px;
+        background-color: indianred;
+        text-decoration:none;
+        border-radius: 15px;
+        transition:0.4s;
+    }
+    .reg a{
+        color:white;
+        padding:5px 10px;
+        background-color: indianred;
+        text-decoration:none;
+        border-radius: 5px;
+        transition:0.4s;
+    }
+    .sc{
+        text-align: center;
+        height:100vh;
+        padding-top: 100px;
+        color:white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: 10px;
+        font-style: italic;
+    }
+}
+
