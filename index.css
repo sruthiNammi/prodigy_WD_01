@@ -25,7 +25,7 @@ nav{
     padding: 20px;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
+    font-size: 20px;
 
 }
 .menu a:before{
@@ -59,7 +59,7 @@ nav{
     padding-top: 200px;
     color:white;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 10px;
+    font-size: 30px;
     font-weight: 10px;
     font-style: italic;
 }
